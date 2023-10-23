@@ -1,0 +1,22 @@
+.top_container{
+	background-color:lightblue;
+	width:100%;
+	height:5vh;
+}
+.new-bg{
+	background-color:white;
+	margin:10px;
+}
+.newtab{
+	background-color:white;
+	height:100vh;
+	width:40vw;
+	margin-left:10px;
+	border-radius:10px 10px 0px 0px;
+}
+input{
+	width:60vw;
+    border-radius:20px; 
+	color:white;
+	margin-left:10px;
+}
